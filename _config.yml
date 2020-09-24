@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Ritik Patni
+bio: Web Developer 🕸️, Reader 📖, He/Him 👨
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,15 +8,15 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/1WePCwxwhatdbsK8fXg5e8YNo6Nc8Qe4O/view?usp=sharing
 
-url: https://sergiokopplin.github.io/indigo
+url: https://ritikpatni.me
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,31 +34,31 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+twitter: 03ritikpatni
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: rpatni0003
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: RitikPatni
 # gitlab: mygitlab
 # lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
+stackoverflow: 5773416/ritik-patni
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: patniritik@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  ritikpatni:
+    name: Ritik Patni
+    bio: Front End Developer
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
+    picture: assets/images/profile.png
+    twitter: 03ritikpatni
   jamesfoster:
     name: James Foster
     bio: A Man who develops software with coffee
@@ -82,9 +82,10 @@ pagination:
 # if you don't need projects, comment the *projects* configs below
 projects: true
 
-# if you don't need "about" or "blog", comment them out below
+# if you don't need "about" or "blog" or "uses", comment them out below
 about: true
 blog: true
+uses: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
