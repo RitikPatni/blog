@@ -22,7 +22,7 @@ url: https://ritikpatni.me
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: "UA-101094038-1"
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -83,9 +83,9 @@ pagination:
 projects: false
 
 # if you don't need "about" or "blog" or "uses", comment them out below
-about: false
+about: true
 blog: false
-uses: false
+uses: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
