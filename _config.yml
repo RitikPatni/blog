@@ -84,7 +84,7 @@ projects: false
 
 # if you don't need "about" or "blog" or "uses", comment them out below
 about: true
-blog: false
+blog: true
 uses: true
 
 # do you want to show the "read time" of the posts?

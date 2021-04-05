@@ -1,0 +1,37 @@
+---
+title: "Daily Reflection #1"
+layout: post
+date: 2021-04-05 20:39
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- journal
+- personal
+star: false
+category: blog
+author: ritikpatni
+description: Daily Journal to share the updates
+---
+
+
+## Intentions
+
+1. To complete all the pending work related tasks
+2. Plan how to start blogging
+
+## Happenings
+
+Had a really productive day. Progressed really well after a long weekend. Still researching on how to start the blog but good thing is finally I have started with this journal. Hopefully will make this a habit in the long run
+
+## Grateful for
+
+1. Having a positive social media influence
+2. Finding this amazing [blog](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/) which taught me a lot about accessibility
+
+## Action items
+
+- [ ]  Complete pending tasks for work
+- [x]  Read 30 mins
+- [x]  Walk 6k steps
+- [x]  Learn Spanish from Duo
+- [x]  Practice typing on Monkeytype
