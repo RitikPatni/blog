@@ -1,6 +1,6 @@
 # main text of home
 name: Ritik Patni
-bio: Web Developer 🕸️, Reader 📖, He/Him 👨
+bio: Web Developer 🕸️, Master Procrastinator
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -73,7 +73,7 @@ projects: false
 
 # if you don't need "about" or "blog" or "uses", comment them out below
 about: true
-blog: false
+blog: true
 uses: true
 
 # do you want to show the "read time" of the posts?
