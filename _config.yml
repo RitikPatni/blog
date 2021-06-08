@@ -33,7 +33,7 @@ analytics-google: "UA-101094038-1"
 twitter: 03ritikpatni
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: rpatni0003
+linkedin: ritikpatni
 # youtube: myyoutube
 # spotify: myspotify
 github: RitikPatni
@@ -52,7 +52,7 @@ authors:
         name: Ritik Patni
         bio: Front End Developer
         external-image: false
-        picture: assets/images/profile.png
+        picture: assets/images/profile.pngjpg
         twitter: 03ritikpatni
 
 # do you want a larger site? change the option below
