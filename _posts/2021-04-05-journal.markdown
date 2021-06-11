@@ -1,0 +1,36 @@
+---
+title: "Daily Reflection #2"
+layout: post
+date: 2021-04-05 20:39
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- journal
+- personal
+star: false
+category: blog
+author: ritikpatni
+description: Daily Journal to share the updates
+---
+
+
+## Intentions
+
+1. Plan out work related tasks properly
+
+## Happenings
+
+Day started quite unproductive with a huge power cut in the first half. But managed to compensate for it with a really productive second half. Had fun solving todays NYT crossword wasn't as terrible today as I usually am.
+
+## Grateful for
+
+1. Having twitter
+2. Finding this amazing [blog](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/) which taught me a lot about accessibility
+
+## Action items
+
+- [ ]  Complete pending tasks for work
+- [x]  Read 30 mins
+- [x]  Walk 6k steps
+- [x]  Learn Spanish from Duo
+- [x]  Practice typing on Monkeytype

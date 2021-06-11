@@ -1,0 +1,23 @@
+---
+title: "My go to SVG icon libraries"
+layout: post
+date: 2016-02-24 22:44
+image: false
+headerImage: false
+tag:
+- icons
+- svg
+- resources
+star: false
+category: 
+author: ritikpatni
+description: Some decent SVG icon libraries
+---
+
+Listing down some of my favorite icon libraries which provide free SVG icons.
+
+* [IconSVG](https://iconsvg.xyz)
+* [Tabler Icons](https://tablericons.com/)
+* [Teeny Icons](https://teenyicons.com/)
+* [Hero Icons](https://heroicons.com/)
+* [Hola SVG](https://holasvg.com/icons/)
