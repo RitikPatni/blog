@@ -1,5 +1,5 @@
 ---
-title: "TIL: Learned about debugging in Obsidian and adding custom CSS"
+title: "Learned about debugging in Obsidian and adding custom CSS"
 layout: post
 date: 03 Jun 2021 09:05
 headerImage: false
