@@ -21,7 +21,7 @@ use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_output_directory: _site
-  install_dependencies_command: bundle install
+  install_dependencies_command: bundle install && gem install -n /usr/local/bin jekyll
   preview_docker_image: forestryio/ruby:2.6-node12
   mount_path: "/srv"
   working_dir: "/srv"
