@@ -1,5 +1,5 @@
 [[redirects]]
   from = "https://ritikpatni.me/notes/*"
-  to = "https://publish.obsidian.md/serve?url=ritikpatni.me/notes/:splat"
+  to = "https://publish.obsidian.md/ritik?url=ritikpatni.me/notes/:splat"
   status = 200
   force = true
